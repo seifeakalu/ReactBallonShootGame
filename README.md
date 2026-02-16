@@ -10,9 +10,9 @@
 
 ---
 
-## 🎮 Play Online
+## 🚀 Play Online
 
-You can play the game online here: [Play Balloon Shooter](ballon-shoot.wuaze.com)  
+You can play the game live here: [Play Ballon Shooter Game Online](https://ballon-shoot.wuaze.com/)   
 
 ---
 
