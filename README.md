@@ -12,7 +12,7 @@
 
 ## 🎮 Play Online
 
-You can play the game online here: [Play Balloon Shooter](https://yourdomain.epizy.com)  
+You can play the game online here: [Play Balloon Shooter](ballon-shoot.wuaze.com)  
 
 ---
 
@@ -31,24 +31,10 @@ You can play the game online here: [Play Balloon Shooter](https://yourdomain.epi
 ## 🛠 Built With
 
 - React
-- HTML5 Canvas
-- CSS
-- JavaScript
+
 
 ---
-
-## 🎵 Sounds
-
-- Balloon pop sound when a balloon is hit.
 - Background gradient for a lively environment.
-
-> Make sure to include the `sounds` folder in your project for pop sound to work.
-
----
-
-## 🖼 Screenshots
-
-![Gameplay Screenshot](screenshot.png)
 
 ---
 
