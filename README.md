@@ -1,8 +1,12 @@
 # 🏹 Balloon Shooter - React Game
 
-![Balloon Shooter Screenshot](/image/level1.png)
+## 🎬 Screenshots
 
-**Balloon Shooter** is a fun and addictive React-based browser game where you shoot arrows to pop balloons! Track your score, beat your best score, and advance through levels.  
+<p align="center">
+  <img src="images/level1.PNG" alt="Level 1" width="500" height="450"/> 
+</p>
+
+**Balloon Shooter** is a fun  React-based browser game where you shoot arrows to pop balloons! Track your score, beat your best score, and advance through levels.  
 
 ---
 
