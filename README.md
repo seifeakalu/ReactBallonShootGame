@@ -43,4 +43,4 @@ You can play the game online here: [Play Balloon Shooter](ballon-shoot.wuaze.com
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ReactBalloonShooter.git
+git clone https://github.com/seifeakalu/ReactBallonShootGame.git
